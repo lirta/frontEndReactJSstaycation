@@ -1,0 +1,184 @@
+{
+  "hero": {
+    "travelers": 80409,
+    "treasures": 882,
+    "cities": 1492
+  },
+  "mostPicked": [
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Silek",
+      "type": "Beladiri",
+      "imageUrl": "/images/inda-1.jpg",
+      "country": "Indonesia",
+      "city": "Tanah Datar",
+      "price": "80",
+      "unit": "night"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Gandang tabuik",
+      "type": "Hotel",
+      "imageUrl": "/images/inda-2.jpg",
+      "country": "Indonesia",
+      "city": "Bogor",
+      "price": "52",
+      "unit": "night"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "House Tour",
+      "type": "Rumah",
+      "imageUrl": "/images/inda-3.jpg",
+      "country": "Indonesia",
+      "city": "Minangkabau",
+      "price": "80",
+      "unit": "night"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Jung Hook Sie",
+      "type": "Apartment",
+      "imageUrl": "/images/inda-4.jpg",
+      "country": "Indonesia",
+      "city": "Minangkabau",
+      "price": "80",
+      "unit": "night"
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Jung Hook Sie",
+      "type": "Apartment",
+      "imageUrl": "/images/inda-5.jpg",
+      "country": "Indonesia",
+      "city": "Minangkabau",
+      "price": "80",
+      "unit": "night"
+    }
+  ],
+  "categories": [
+    { 
+      "_id": "asd1293uasdads1",
+      "name": "Silek",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "PSW Antasari",
+          "imageUrl": "/images/silek-1.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Kuretakeso",
+          "imageUrl": "/images/silek-2.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Arya Duta",
+          "imageUrl": "/images/silek-3.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Grand Dhika",
+          "imageUrl": "/images/silek-4.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": true
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Tari Piriang",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "PSW Antasari",
+          "imageUrl": "/images/piriang-1.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Kuretakeso",
+          "imageUrl": "/images/piriang-2.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Arya Duta",
+          "imageUrl": "/images/piriang-3.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Grand Dhika",
+          "imageUrl": "/images/piriang-4.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": true
+        }
+      ]
+    },
+    {
+      "_id": "asd1293uasdads1",
+      "name": "Alat Musik",
+      "items": [
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Salunag Pawuah",
+          "imageUrl": "/images/musik-1.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Talempong Pacik",
+          "imageUrl": "/images/musik-2.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": false
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Rabab",
+          "imageUrl": "/images/musik-3.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": true
+        },
+        {
+          "_id": "asd1293uasdads1",
+          "name": "Gandang Tabui",
+          "imageUrl": "/images/musik-4.jpg",
+          "country": "Indonesia",
+          "city": "Minangkabau",
+          "isPopular": false
+        }
+      ]
+    }
+  ],
+  "testimonial": {
+    "_id": "asd1293uasdads1",
+    "imageUrl": "/images/testi.jpg",
+    "name": "Happy Family",
+    "rate": 3.5,
+    "content": "What a great trip with my family and I should try again next time soon ...",
+    "familyName": "Lirta",
+    "familyOccupation": "Product Designer"
+  }
+}
